@@ -1,0 +1,6 @@
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\bin\Release\ExpressionTree.exe.config
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\bin\Release\ExpressionTree.exe
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\bin\Release\ExpressionTree.pdb
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\obj\Release\ExpressionTree.exe
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\obj\Release\ExpressionTree.pdb
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\obj\Release\ExpressionTree.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.exe.config
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.exe
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\bin\Debug\ExpressionTree.pdb
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.exe
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.pdb
+C:\Visual Studio Projects\BLOG\ExpressionTree\ExpressionTree\obj\Debug\ExpressionTree.rewritten
